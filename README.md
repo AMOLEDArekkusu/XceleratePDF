@@ -1,12 +1,9 @@
 <div align="center">
-<<<<<<< HEAD
-
-
 
   <h1>XceleratePDF</h1>
 
   <p>
-    A modern, full-stack web application for batch converting multi-sheet Excel workbooks into unified or individually-split PDF documents — with full Unicode and multilingual support.
+    A modern, full-stack web application for batch converting multi-sheet Excel workbooks into customized, high-fidelity PDF documents. Features include per-sheet selection, configurable orientation, column width adjustments, and full Unicode/multilingual support.
   </p>
 
   <p>
@@ -30,12 +27,6 @@
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
-=======
-  
-  <h3 align="center">XceleratePDF</h3>
-
-
->>>>>>> e1b6923387bfb0ac64e24735fb5a7f889bab95f7
 
 ---
 
@@ -57,8 +48,7 @@
      - [Running Locally](#running-locally)
   6. [Usage](#usage)
   7. [API Reference](#api-reference)
-  8. [Roadmap](#roadmap)
-  9. [License](#license)
+  8. [License](#license)
 
 </details>
 
@@ -330,20 +320,6 @@ Converts an uploaded Excel file to PDF or ZIP.
 | `200 OK` | `application/zip` | ZIP archive of per-sheet PDFs |
 | `400 Bad Request` | `application/json` | `{ "error": "..." }` |
 | `500 Internal Server Error` | `application/json` | `{ "error": "..." }` |
-
----
-
-## Roadmap
-
-- [x] Multi-sheet Excel parsing via pandas
-- [x] PDF generation with ReportLab (Unicode / CJK cell wrap)
-- [x] Per-sheet ZIP export mode
-- [x] Zero-config Vercel deployment
-- [x] Sheet selection UI (choose which sheets to export)
-- [x] Dark mode support
-- [x] Configurable PDF page orientation (Portrait / Landscape toggle)
-- [x] Column width customization per sheet
-- [x] Preview pane before download
 
 ---
 
