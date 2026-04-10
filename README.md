@@ -3,8 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Microsoft_Excel_2013_logo.svg/100px-Microsoft_Excel_2013_logo.svg.png" alt="Logo" width="80" height="80">
-
+  
   <h3 align="center">XceleratePDF</h3>
 
   <p align="center">
