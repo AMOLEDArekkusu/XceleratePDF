@@ -6,19 +6,7 @@
   
   <h3 align="center">XceleratePDF</h3>
 
-  <p align="center">
-    A modern, sleek web application to batch convert multi-sheet Excel files into unified PDF documents with seamless Unicode multi-lingual support.
-    <br />
-    <a href="https://github.com/your_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://your-vercel-deployment.vercel.app">View Demo</a>
-    ·
-    <a href="https://github.com/your_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/your_username/repo_name/issues">Request Feature</a>
-  </p>
-</div>
+
 
 <!-- BADGES -->
 <div align="center">
