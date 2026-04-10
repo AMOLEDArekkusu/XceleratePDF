@@ -1,4 +1,5 @@
 <div align="center">
+<<<<<<< HEAD
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/100px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="XceleratePDF Logo" width="80" height="80">
 
@@ -29,6 +30,12 @@
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
+=======
+  
+  <h3 align="center">XceleratePDF</h3>
+
+
+>>>>>>> e1b6923387bfb0ac64e24735fb5a7f889bab95f7
 
 ---
 
