@@ -239,8 +239,8 @@ export default function Home() {
                   <FileType className="w-6 h-6 text-indigo-600 dark:text-indigo-400" />
                 </div>
                 <div>
-                  <p className="font-semibold text-gray-800 dark:text-gray-200 line-clamp-1">{file.name}</p>
-                  <p className="text-sm text-gray-500 dark:text-gray-400">{(file.size / 1024 / 1024).toFixed(2)} MB</p>
+                  <p className="font-semibold text-gray-800 dark:text-gray-200 line-clamp-1">{file?.name}</p>
+                  <p className="text-sm text-gray-500 dark:text-gray-400">{((file?.size || 0) / 1024 / 1024).toFixed(2)} MB</p>
                 </div>
               </div>
               {!loading && !success && (
