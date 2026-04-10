@@ -1,7 +1,7 @@
 <div align="center">
 <<<<<<< HEAD
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/100px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="XceleratePDF Logo" width="80" height="80">
+
 
   <h1>XceleratePDF</h1>
 
