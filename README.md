@@ -339,11 +339,11 @@ Converts an uploaded Excel file to PDF or ZIP.
 - [x] PDF generation with ReportLab (Unicode / CJK cell wrap)
 - [x] Per-sheet ZIP export mode
 - [x] Zero-config Vercel deployment
-- [ ] Sheet selection UI (choose which sheets to export)
-- [ ] Dark mode support
-- [ ] Configurable PDF page orientation (Portrait / Landscape toggle)
-- [ ] Column width customization per sheet
-- [ ] Preview pane before download
+- [x] Sheet selection UI (choose which sheets to export)
+- [x] Dark mode support
+- [x] Configurable PDF page orientation (Portrait / Landscape toggle)
+- [x] Column width customization per sheet
+- [x] Preview pane before download
 
 ---
 
